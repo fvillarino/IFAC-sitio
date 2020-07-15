@@ -1,0 +1,11 @@
+Secciones:
+* Inicio
+    -> News: Carrusel con imagenes y novedades.
+    -> Preview de los cursos principales
+* Carreras
+* Cursos y seminarios
+* Seccion de novedades
+* Instituto
+* Galeria
+* Contacto
+

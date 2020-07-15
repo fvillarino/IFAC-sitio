@@ -7952,16 +7952,16 @@ body.landing-page {
 }
 .landing-page .navbar-default .navbar-brand:hover,
 .landing-page .navbar-default .navbar-brand:focus {
-  background: #179d82;
-  color: #fff;
+  background: #6e6d6d;
+  color: #A7B1C2;
 }
 .landing-page .navbar-default .navbar-brand {
-  color: #fff;
+  color: white;
   height: auto;
   display: block;
   font-size: 14px;
   background: #1ab394;
-  padding: 15px 20px 15px 20px;
+  padding-top: 25px;
   border-radius: 0 0 5px 5px;
   font-weight: 700;
   transition: all 0.3s ease-in-out 0s;
@@ -9596,4 +9596,10 @@ body.md-skin {
   #page-wrapper {
     margin: 0;
   }
+}
+
+.navbar-brand__img {
+  width: 200px;
+  background-color: white;
+  padding: 0px;
 }
